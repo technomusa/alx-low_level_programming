@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - Main block
-* SizeOf
-* Return value: always (0):successful
+*main - Main block
+*SizeOf
+*Return value: always (0):successful
 */
 int main(void){
 char acharacter;
