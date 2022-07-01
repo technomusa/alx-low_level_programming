@@ -2,7 +2,7 @@
 /**
 *main - Main block
 *SizeOf
-*Return value: always (0):successful
+*Return: Always 0 (Success)
 */
 int main(void)
 {
