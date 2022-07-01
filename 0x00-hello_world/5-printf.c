@@ -1,13 +1,9 @@
 #include <stdio.h>
 /**
- *
- * * main - Prints "with proper grammar, but the ouptu is a piece of art,"
- *
- * *
- *
- * * Return: Always 0 (Success)
- *
- * */
+ * main -Main block 
+ * Prints "with proper grammar, but the ouptu is a piece of art,"
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 

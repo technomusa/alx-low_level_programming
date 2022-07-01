@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - SizeOf
- *
+ * main - Main block
+ * SizeOf
  * Return value: always (0):successful
  */
 
