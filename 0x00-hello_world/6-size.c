@@ -4,7 +4,8 @@
 *SizeOf
 *Return value: always (0):successful
 */
-int main(void){
+int main(void)
+{
 char acharacter;
 int ainteger;
 long along;
